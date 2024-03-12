@@ -1,13 +1,13 @@
 *{
     box-sizing: border-box;
     font-family: sans-serif;
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(221, 221, 221);
 }
 
 #grid-container{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    grid-template-areas: "header header header" "main main main" "footer footer footer";
+    grid-template-areas: "header header header" "main main main";
 }
 
 header{
