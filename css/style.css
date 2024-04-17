@@ -35,6 +35,11 @@ main section h1{
     margin: 10px 10px 10px 20px;
 }
 
+main section h2{
+    font-size: 25px;
+    margin: 10px 10px 10px 20px;
+}
+
 main section a{
     margin: 20px;
 }
@@ -56,6 +61,47 @@ main section a{
 }
 
 #bilde3{
+    width: 100%;
+    scale: 0.9;
+}
+
+#oblig2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#bilde4{
+    width: 100%;
+    scale: 0.9;
+}
+
+#bilde5{
+    width: 100%;
+    scale: 0.9;
+}
+
+#bilde6{
+    width: 100%;
+    scale: 0.9;
+}
+
+#bilde7{
+    width: 100%;
+    scale: 0.9;
+}
+
+#bilde8{
+    width: 100%;
+    scale: 0.9;
+}
+
+#bilde9{
+    width: 100%;
+    scale: 0.9;
+}
+
+#bilde10{
     width: 100%;
     scale: 0.9;
 }
